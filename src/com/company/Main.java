@@ -1,6 +1,5 @@
 package com.company;
 
-public class Main {
 
     public static void main(String[] args) {
         int[] scores = new int[7];
@@ -15,6 +14,7 @@ public class Main {
      //   System.out.println(score1);
 
      //   System.out.println(scores[5]);
+
         String[] score = {"13", "34", "45", "23","64","11","21"};
         for (int i = 0; i < scores.length; i++) {
             String s = score[i];
@@ -27,6 +27,7 @@ public class Main {
         resultat = resultat/ score.length;
         System.out.println(resultat);
     }
+
 
     
 
