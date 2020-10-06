@@ -1,7 +1,7 @@
 package com.company;
 
 
-    public static void main(String[] args) {
+/*    public static void main(String[] args) {
         int[] scores = new int[7];
         scores[0] = 13;
         scores[1] = 34;
@@ -31,4 +31,4 @@ package com.company;
 
     
 
-}
+*/
